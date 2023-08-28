@@ -1,6 +1,6 @@
 {
     "ExclusiveEggs": {
-        "Type": "Toggle",
+        "Type": "Boolean",
         "Value": true
     }
 }
