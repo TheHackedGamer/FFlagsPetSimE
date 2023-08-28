@@ -1,6 +1,7 @@
 {
     "ExclusiveEggs": {
         "Type": "Boolean",
-        "Value": true
+        "Value": true,
+        "Name": "ExclusiveEggs"
     }
 }
